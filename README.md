@@ -1,6 +1,9 @@
 # movie-recommendation-notebook
 
-In this project we will try to predict which movie should be your next movie to watch, we will cover some interesting insights that we gained in the procees of creating this project.
+In this project we will try to predict which movie should be users next movie to watch.
+This project is Written by me (Dani Dubinsky) and Ron Kantor my partner in Data Science Workshop class.
+We uncovered three main methdology that a combination of those 3 will create a a strong recomindadtion engine.
+
 
 ### Project setup
 
